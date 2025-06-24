@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Charlotte 👋
 
-<!--
-**codeByChar/codeByChar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+From my first keyboard to real-world code –  
+I'm a creative software developer with a passion for human-centered, thoughtful solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Me as a kid at the computer](./me_as_kid.jpg)  
+*My journey began young – with a keyboard, a smile, and my grandma beside me.*
+
+---
+
+## 🛠 Tech Stack  
+- C#, VB.NET, WPF, XAML  
+- .NET Framework 4.8  
+- MS SQL Server, Azure DevOps  
+- HTML/CSS, Git, Java
+
+## ✨ What I enjoy  
+Clean UI, thoughtful UX, creative problem-solving and bringing ideas to life with empathy and precision.
+
+
