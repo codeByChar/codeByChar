@@ -5,7 +5,7 @@ I'm a creative software developer with a passion for human-centered, thoughtful 
 
 ---
 
-<img src="./me_as_kid.jpg" alt="Me as a kid at the computer" width="300"/>
+<img src="./me_as_kid.jpg" alt="Me as a kid at the computer" width="400"/>
 *My journey began young – with a keyboard, a smile, and my grandma beside me.*
 
 ---
@@ -17,6 +17,6 @@ I'm a creative software developer with a passion for human-centered, thoughtful 
 - HTML/CSS, Git, Java
 
 ## ✨ What I enjoy  
-Clean UI, thoughtful UX, creative problem-solving and bringing ideas to life with empathy and precision.
+Intuitive and clean UI, thoughtful UX, creative problem-solving and bringing ideas to life with empathy and precision.
 
 
