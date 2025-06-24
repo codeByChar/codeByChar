@@ -5,7 +5,7 @@ I'm a creative software developer with a passion for human-centered, thoughtful 
 
 ---
 
-![Me as a kid at the computer](./me_as_kid.jpg)  
+<img src="./me_as_kid.jpg" alt="Me as a kid at the computer" width="300"/>
 *My journey began young – with a keyboard, a smile, and my grandma beside me.*
 
 ---
